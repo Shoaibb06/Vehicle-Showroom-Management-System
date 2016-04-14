@@ -1,0 +1,16 @@
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\bin\Debug\DBS project.exe.config
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\bin\Debug\DBS project.exe
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\bin\Debug\DBS project.pdb
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS project.csprojResolveAssemblyReference.cache
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Form1.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Properties.Resources.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS project.csproj.GenerateResource.Cache
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS project.exe
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS project.pdb
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Form2.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Form3.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Dealer.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Employee.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.Sp.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.SparePart.resources
+D:\4th Semester\Database Systems\Project\DBS project\DBS project\obj\Debug\DBS_project.VEH.resources
